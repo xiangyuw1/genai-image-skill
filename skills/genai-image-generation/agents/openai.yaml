@@ -1,0 +1,4 @@
+interface:
+  display_name: "GenAI Image Generation"
+  short_description: "Generate and edit images through a GenAI proxy"
+  default_prompt: "Use $genai-image-generation to generate a 1024x1024 image from a text prompt."
